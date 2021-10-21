@@ -1,4 +1,6 @@
 # IT 邦幫忙 13 屆鐵人賽
+[2021 iThome 鐵人賽 - Be friend with JavaScript 系列](https://ithelp.ithome.com.tw/users/20140282/ironman/4075)
+![](https://i.imgur.com/q18RVGy.png)
 
 文章列表
 ---
